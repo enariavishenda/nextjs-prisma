@@ -12,7 +12,7 @@ export const getServerSideProps: GetServerSideProps = async ({ params }) => {
         published: false,
         author: {
                 name: "Enaria Vishebda",
-            email: "test@email for npm build",
+            email: "test@email.com",
         },
     }
     return {
